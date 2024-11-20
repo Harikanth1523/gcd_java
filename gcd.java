@@ -1,4 +1,5 @@
-class Main {
+class gcd
+    {
     public static void main(String[] args) {
   
       // find GCD between n1 and n2
